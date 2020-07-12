@@ -14,12 +14,12 @@ To do that, we will have to :
 ## Table of contents
 <div class="alert alert-block alert-info" style="margin-top: 20px">
   
-1. [Retrieve the data from Wikipedia page](#retrieve_wikipedia)
-2. [Data Wrangling](#data_wrangling)
-3. [Exploration of the neighborhoods in Toronto](#exploration)
-4. [Analysis of Each Neighborhood](#analysis_neighborhood)
-5. [Cluster Neighborhoods](#cluster_neighborhoods)
-6. [Examine Clusters](#clusters)
+1. [Retrieve the data from Wikipedia page]
+2. [Data Wrangling]
+3. [Exploration of the neighborhoods in Toronto]
+4. [Analysis of Each Neighborhood]
+5. [Cluster Neighborhoods]
+6. [Examine Clusters]
 </div>
 <hr>
 
