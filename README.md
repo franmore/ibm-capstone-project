@@ -25,5 +25,4 @@ To do that, we will have to :
 
 ## Results
 ![toronto_neighborhoods](toronto_neighborhoods.png)
-
-Work in progress...
+![toronto_neighborhoods clustering results](toronto_neighborhoods_results.png)
