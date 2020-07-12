@@ -1,4 +1,4 @@
-# IBM Capstone Project
+# Toronto Neighborhood Analysis - IBM Capstone Project
 ![logo Cognitive Class](cc-logo-square.png)
 
 ## Goal of this capstone project: 
